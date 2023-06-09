@@ -4,3 +4,4 @@ db.sqlitee
 venv
 test.py
 .idea
+.env
